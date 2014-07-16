@@ -1,6 +1,6 @@
 {
   "name": "rtc-badge",
-  "version": "0.0.0",
+  "version": "1.0.0",
   "description": "A simple 'powered by rtc.io' SVG badge",
   "main": "index.js",
   "scripts": {

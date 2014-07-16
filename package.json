@@ -28,7 +28,7 @@
     "svg": "git://github.com/npm-dom/svg#restructure"
   },
   "browserify": {
-    "transforms": [
+    "transform": [
       "brfs"
     ]
   }

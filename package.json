@@ -4,6 +4,7 @@
   "description": "A simple 'powered by rtc.io' SVG badge",
   "main": "index.js",
   "scripts": {
+    "gendocs": "gendocs > README.md",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "repository": {

@@ -19,5 +19,16 @@
   "bugs": {
     "url": "https://github.com/rtc-io/rtc-badge/issues"
   },
-  "homepage": "https://github.com/rtc-io/rtc-badge"
+  "homepage": "https://github.com/rtc-io/rtc-badge",
+  "dependencies": {
+    "brfs": "^1.1.2",
+    "crel": "^1.1.2",
+    "defaultcss": "0.0.2",
+    "svg": "git://github.com/npm-dom/svg#restructure"
+  },
+  "browserify": {
+    "transforms": [
+      "brfs"
+    ]
+  }
 }

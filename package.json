@@ -1,0 +1,23 @@
+{
+  "name": "rtc-badge",
+  "version": "0.0.0",
+  "description": "A simple 'powered by rtc.io' SVG badge",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/rtc-io/rtc-badge.git"
+  },
+  "keywords": [
+    "rtc.io",
+    "badge"
+  ],
+  "author": "Damon Oehlman <damon.oehlman@nicta.com.au>",
+  "license": "Apache 2.0",
+  "bugs": {
+    "url": "https://github.com/rtc-io/rtc-badge/issues"
+  },
+  "homepage": "https://github.com/rtc-io/rtc-badge"
+}

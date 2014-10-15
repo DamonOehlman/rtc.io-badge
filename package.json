@@ -4,6 +4,7 @@
   "description": "A simple 'powered by rtc.io' SVG badge",
   "main": "index.js",
   "scripts": {
+    "build": "mkdir -p dist && browserify index.js | uglifyjs --compress > dist/rtc.badge.js",
     "gendocs": "gendocs > README.md",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
@@ -31,5 +32,9 @@
     "transform": [
       "brfs"
     ]
+  },
+  "devDependencies": {
+    "browserify": "^6.1.0",
+    "uglify-js": "^2.4.15"
   }
 }

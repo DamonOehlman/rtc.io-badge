@@ -23,8 +23,8 @@
   "homepage": "https://github.com/rtc-io/rtc-badge",
   "dependencies": {
     "brfs": "^1.1.2",
-    "crel": "^1.1.2",
-    "defaultcss": "0.0.2",
+    "crel": "^2.1.5",
+    "defaultcss": "^1.0.0",
     "svg": "git://github.com/npm-dom/svg#restructure"
   },
   "browserify": {

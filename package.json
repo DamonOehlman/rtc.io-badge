@@ -10,7 +10,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/rtc-io/rtc-badge.git"
+    "url": "https://github.com/DamonOehlman/rtc.io-badge.git"
   },
   "keywords": [
     "rtc.io",
@@ -19,9 +19,9 @@
   "author": "Damon Oehlman <damon.oehlman@nicta.com.au>",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/rtc-io/rtc-badge/issues"
+    "url": "https://github.com/DamonOehlman/rtc.io-badge/issues"
   },
-  "homepage": "https://github.com/rtc-io/rtc-badge",
+  "homepage": "https://github.com/DamonOehlman/rtc.io-badge",
   "dependencies": {
     "brfs": "^1.1.2",
     "crel": "^2.1.5",

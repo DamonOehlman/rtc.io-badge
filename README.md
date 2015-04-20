@@ -5,7 +5,7 @@ A simple "powered by rtc.io" badge for rtc.io demo sites.
 
 [![NPM](https://nodei.co/npm/rtc-badge.png)](https://nodei.co/npm/rtc-badge/)
 
-[![bitHound Score](https://www.bithound.io/github/rtc-io/rtc-badge/badges/score.svg)](https://www.bithound.io/github/rtc-io/rtc-badge) 
+[![bitHound Score](https://www.bithound.io/github/DamonOehlman/rtc.io-badge/badges/score.svg)](https://www.bithound.io/github/DamonOehlman/rtc.io-badge) 
 
 ## Usage
 
